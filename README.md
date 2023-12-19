@@ -1,2 +1,2 @@
-# code
-code challenge 
+# Week 1 Code Challenge
+toy problems submission
