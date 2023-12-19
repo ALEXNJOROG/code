@@ -1,2 +1,2 @@
 # code
-code challange 
+code challenge 
